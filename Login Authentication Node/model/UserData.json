@@ -1,0 +1,68 @@
+[
+  {
+    "email" : "admin",
+    "password" : "Qwerty",
+    "eligible_for_vote" : true,
+    "role" : "admin"
+  },
+  {
+    "email" : "Ravi@algoscale.com",
+    "password" : "Qwerty",
+    "eligible_for_vote" : true,
+    "role" : "admin"
+  },
+  {
+    "email" : "Shally@algoscale.com",
+    "password" : "Qwerty",
+    "eligible_for_vote" : true,
+    "role" : "user"
+  },
+  {
+    "email" : "Meena@algoscale.com",
+    "password" : "Qwerty",
+    "eligible_for_vote" : true,
+    "role" : "user"
+  },
+  {
+    "email" : "Reena@algoscale.com",
+    "password" : "Qwerty",
+    "eligible_for_vote" : true,
+    "role" : "user"
+  },
+  {
+    "email" : "Monika@algoscale.com",
+    "password" : "Qwerty",
+    "eligible_for_vote" : true,
+    "role" : "user"
+  },
+  {
+    "email" : "Dj@algoscale.com",
+    "password" : "Qwerty",
+    "eligible_for_vote" : true,
+    "role" : "user"
+  },
+  {
+    "email" : "Sanjay@algoscale.com",
+    "password" : "Qwerty",
+    "eligible_for_vote" : true,
+    "role" : "user"
+  },
+  {
+    "email" : "Rohit@algoscale.com",
+    "password" : "Qwerty",
+    "eligible_for_vote" : true,
+    "role" : "user"
+  },
+  {
+    "email" : "Mohit@algoscale.com",
+    "password" : "Qwerty",
+    "eligible_for_vote" : true,
+    "role" : "user"
+  },
+  {
+    "email" : "Rakesh@algoscale.com",
+    "password" : "Qwerty",
+    "eligible_for_vote" : true,
+    "role" : "user"
+  }
+]
